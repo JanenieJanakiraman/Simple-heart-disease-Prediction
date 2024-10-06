@@ -1,4 +1,4 @@
-Heart Disease Prediction using Logistic Regression
+__Heart Disease Prediction using Logistic Regression__
 
 This project implements a simple heart disease prediction system using Logistic Regression. The model is trained on the well-known Heart Disease dataset, which contains various health indicators such as age, cholesterol levels, and blood pressure to predict whether a patient has heart disease or not.
 Table of Contents
@@ -41,17 +41,22 @@ Training Accuracy: ~ (replace with actual accuracy)
 Testing Accuracy: ~ (replace with actual accuracy)
 How to Use
 
-Clone the repository:
-bash
-Copy code
+**Clone the repository:**
+
+
 git clone https://github.com/yourusername/heart-disease-prediction.git
-Install required libraries:
-bash
-Copy code
+
+
+__Install required libraries:__
+
 pip install -r requirements.txt
+
+
 Upload the heart_disease_data.csv dataset or use a similar dataset.
 Run the Python script or Jupyter notebook to train the model and make predictions.
-Libraries Used
+
+
+**Libraries Used**
 
 NumPy
 pandas
